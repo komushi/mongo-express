@@ -1,0 +1,6 @@
+---
+applications:
+- name: mongo-express
+memory: 512M
+instances: 1
+host: mongo-express
